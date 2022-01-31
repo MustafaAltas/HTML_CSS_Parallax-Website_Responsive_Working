@@ -298,6 +298,8 @@ body {
         padding: 12px;
         outline: 5px inset #a253a2;
         outline-offset: 20px;
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 10px;
 
     }
     .iki {
@@ -331,6 +333,8 @@ body {
         padding: 8px;
         outline: 5px inset #a253a2;
         outline-offset: 20px;
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 10px;
     }
     .altı {
         line-height: 15px;
@@ -342,6 +346,8 @@ body {
         padding: 12px;
         outline: 5px inset #a253a2;
         outline-offset: 20px;
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 10px;
     }
 
     .sekiz {
@@ -353,5 +359,7 @@ body {
         padding: 12px;
         outline: 5px inset #a253a2;
         outline-offset: 20px;
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 10px;
     }
 }
