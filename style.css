@@ -1,0 +1,357 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+}
+
+
+.bir {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    text-align: center;
+    background-image: url(./img/bg.jpg);
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+    letter-spacing: 5px;
+}
+.bir h1 {
+    width: 462px;
+    background-color: #201f1f;
+    color: white;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: 29px 32px 29px 32px;
+    outline: 10px inset #a253a2;
+    outline-offset: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+ 
+
+}
+
+.iki {
+    text-align: center;
+    height: 342px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 31.68px;
+    padding-right: 100px;
+    padding-left: 100px;
+    opacity: 0.7;
+    font-size: 17.6px;
+
+
+}
+
+.iki h2 {
+    margin-bottom: 20px;
+}
+
+.üç {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    text-align: center;
+    background-image: url(./img/bg2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 576px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+}
+
+.üç img {
+    width: 607.675px;
+    height: 126.475px;
+    opacity: 0.7;
+}
+
+.dört {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    height: 279.025px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 31.68px;
+    padding-right: 100px;
+    padding-left: 100px;
+    opacity: 0.7;
+    font-size: 17.6px;
+}
+
+.dört h2 {
+    margin-bottom: 20px;
+}
+
+.beş {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    text-align: center;
+    background-image: url(./img/bg3.jpg);
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+}
+
+.beş h1 {
+    width: 740px;
+    letter-spacing: 5px;
+    font-weight: 700;
+    background-color: #070606;
+    color: white;
+    font-size: 3rem;
+    /* text-transform: uppercase; */
+    padding: 29px 32px 29px 32px;
+    outline: 10px inset #a253a2;
+    outline-offset: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.altı {
+    text-align: center;
+    height: 342px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 31.68px;
+    padding-right: 100px;
+    padding-left: 100px;
+    opacity: 0.7;
+    font-size: 17.6px;
+
+}
+
+.altı h2 {
+    margin-bottom: 20px;
+}
+
+.yedi {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    text-align: center;
+    background-image: url(./img/bg4.jpg);
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+    letter-spacing: 5px;
+}
+
+.yedi h1 {
+    width: 600px;
+    background-color: #000000;
+    color: white;
+    font-size: 3rem;
+    /* text-transform: uppercase; */
+    padding: 29px 32px 29px 32px;
+    outline: 10px inset #a253a2;
+    outline-offset: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.sekiz {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    height: 279.025px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 31.68px;
+    padding-right: 100px;
+    padding-left: 100px;
+    opacity: 0.7;
+    font-size: 17.6px;
+}
+
+.sekiz h2 {
+    margin-bottom: 20px;
+}
+
+.dokuz {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    text-align: center;
+    background-image: url(./img/bg.jpg);
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+    letter-spacing: 5px;
+}
+
+.dokuz h1 {
+    width: 750px;
+    background-color: #201f1f;
+    color: white;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: 29px 32px 29px 32px;
+    outline: 10px inset #a253a2;
+    outline-offset: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+@media screen and (max-width: 768px) and (min-width: 481px) {
+    .bir h1 {
+        width: 300px;
+        background-color: #201f1f;
+        color: white;
+        font-size: 2rem;
+        /* text-transform: uppercase; */
+        /* padding: 29px 32px 29px 32px; */
+        outline: 10px inset #a253a2;
+        outline-offset: 20px;
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .iki {
+        height: 800px ;
+        overflow: auto;
+    }
+    .iki h2 {
+        margin-bottom: 50px;
+    }
+    .üç img {
+        width: 200px;
+        height: 75px;
+        opacity: 0.7;
+    }
+
+    .dört {
+        height: 500px;
+    }
+    .beş h1 {
+        width: 300px;
+        font-size: 1rem;
+    }
+    .altı {
+        height: 550px;
+    }
+
+    .yedi h1 {
+        width: 300px;
+        font-size: 1rem;
+    }
+    .sekiz {
+        height: 630px;
+    }
+    .dokuz h1 {
+        width: 300px;
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 480px) and (min-width: 320px) {
+    * {
+        font-size: 10px;
+    }
+
+    .bir {
+        background-size:600px;
+        background-repeat:no-repeat;
+    }
+
+    .bir h1 {
+        width: 200px;
+        font-size: 1.5rem;
+        padding: 12px;
+        outline: 5px inset #a253a2;
+        outline-offset: 20px;
+
+    }
+    .iki {
+        text-align: center;
+        height: 342px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        line-height: 15px;
+        padding-right: 100px;
+        padding-left: 100px;
+        opacity: 0.7;
+        font-size: 17.6px;
+    
+    }
+
+    .üç img {
+
+        width: 200px;
+        height: 75px;
+        opacity: 0.7;
+    }
+    .dört {
+        line-height: 15px;
+    }
+
+    .beş h1 {
+        width: 250px;
+        font-size: 1.5rem;
+        padding: 8px;
+        outline: 5px inset #a253a2;
+        outline-offset: 20px;
+    }
+    .altı {
+        line-height: 15px;
+    }
+
+    .yedi h1 {
+        width: 250px;
+        font-size: 1.5rem;
+        padding: 12px;
+        outline: 5px inset #a253a2;
+        outline-offset: 20px;
+    }
+
+    .sekiz {
+        line-height: 15px;
+    }
+    .dokuz h1 {
+        width: 250px;
+        font-size: 1.5rem;
+        padding: 12px;
+        outline: 5px inset #a253a2;
+        outline-offset: 20px;
+    }
+}
